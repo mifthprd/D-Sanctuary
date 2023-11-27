@@ -1,0 +1,43 @@
+D'Sanctuary
+Deskripsi: D'Sanctuary adalah sebuah program yang dibuat untuk memudahkan pekerja dan wisatawan dalam mengunjungi suaka margasatwa. Admin dapat memberikan informasi, mengelola relawan dan kunjungan, dan memfasilitasi pengalaman yang lebih baik saat mengunjungi suaka margasatwa, sementara user dapat memesan tiket melalui program ini.
+
+Fitur Program:
+Dalam program D'Sanctuary, terdapat dua jenis akun dengan fitur berbeda:
+
+Admin:
+
+1. Login dan registrasi: Admin dapat masuk ke akun mereka dengan mengisikan informasi login yang sudah ada.(Catatan: Jumlah percobaan login yang gagal terbatas hingga 3 kali.)
+2. Manajemen Suaka margasatwa: Admin dapat menambahkan, mengedit, dan menghapus informasi tentang:
+A. hewan yang ada di suaka, seperti nama hewan, jenis, dan deskripsi.
+B. habitat dan ekosistem yang ditempati hewan tersebut
+C. pelestarian yang dilakukan untuk hewan tersebut
+3. Pendapatan: Admin dapat melihat berapa pendapatan yang telah diterima dari penjualan tiket kunjungan.
+4. Papan Donasi: Admin dapat melihat donasi yang didapatkan.
+5. Pengumuman: Admin dapat membuat pengumuman atau informasi penting yang akan ditampilkan kepada pengunjung melalui program
+6. List Program Relawan: Admin dapat melihat relawan yang mendaftarkan diri dan bisa menerima atau tidak relawan tersebut.
+
+Pelanggan:
+1. Registrasi dan Login: Pelanggan dapat membuat akun baru dengan melakukan registrasi. Mereka kemudian dapat login ke akun mereka dengan informasi login yang sudah terdaftar. (Catatan: Jumlah percobaan login yang gagal terbatas hingga 3 kali.)
+2. Pencarian Informasi Hewan: Pelanggan dapat mencari informasi tentang hewan yang ada di suaka, termasuk deskripsi, dan jenis hewan. (Catatan : Untuk list hewan menggunakan sorting berdasarkan huruf depan) 
+3. Pembayaran Tiket: Pelanggan dapat membayar tiket kunjungan menggunakan saldo yang ada di program.
+4. E-Tiket: Setelah pembayaran berhasil, pelanggan akan menerima e-tiket yang berisi informasi tentang kunjungan mereka, termasuk tanggal, jam, dan petunjuk menuju suaka.
+5. Daftar Relawan: User dapat mendaftar menjadi relawan
+6. Donasi: User dapat mendonasikan uangnya untuk suaka margasatwa.
+7. Saldo: User dapat melakukan pengisian dan pengecekan saldo yang nantinya akan digunakan untuk memesan tiket dan donasi.
+
+ADMIN :
+1. Login & Regis (LLY)
+2. Manajemen (LLY)
+3. Pendapatan (NTR)
+4. Papan donasi (GUS) 
+5. Pengumuman (CLA)
+6. List relawan (CLA)
+
+PENGUNJUNG :
+1. Regis&Login (RIN)
+2. Pencarian info (RIN)
+3. Pembayaran tiket (NTR)
+4. E-tiket (NTR)
+5. Daftar relawan (CLA)
+6. Donasi (GUS) 
+7. Saldo (GUS)
